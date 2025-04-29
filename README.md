@@ -52,23 +52,18 @@ The dataset consists of five structured CSV files with the following schema:
 - Weekday vs. Weekend Metrics
 
 ## Tools & Technologies
-Power BI – for data modeling and dashboard visualization
+* Power BI – for data modeling and dashboard visualization
+* Excel – for exploratory data analysis and metric calculation
 
-Excel – for exploratory data analysis and metric calculation
-
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/786d49c4-2c67-4586-8597-7cde6e753571)
 
 ## How to Run
-Open Power BI Desktop
-
-Load the dataset files (CSV format as per schema)
-
-Load or import the .pbix Power BI dashboard file (if available)
-
-Interact with filters such as Room Type, City, and Date Range
-
-Explore KPIs and trends using the visualizations
+* Open Power BI Desktop
+* Load the dataset files (CSV format as per schema)
+* Load or import the .pbix Power BI dashboard file (if available)
+* Interact with filters such as Room Type, City, and Date Range
+* Explore KPIs and trends using the visualizations
 
 ## Key Insights
 * Business hotels generate ~62% of revenue, while Luxury accounts for ~38%
