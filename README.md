@@ -71,11 +71,8 @@ Interact with filters such as Room Type, City, and Date Range
 Explore KPIs and trends using the visualizations
 
 ## Key Insights
-Business hotels generate ~62% of revenue, while Luxury accounts for ~38%
-
-Realisation % and ADR vary significantly across booking platforms
-
-Higher weekend occupancy and RevPAR compared to weekdays
-
-Hyderabad and Delhi properties show consistently higher ADR and occupancy
+* Business hotels generate ~62% of revenue, while Luxury accounts for ~38%
+* Realisation % and ADR vary significantly across booking platforms
+* Higher weekend occupancy and RevPAR compared to weekdays
+* Hyderabad and Delhi properties show consistently higher ADR and occupancy
 
