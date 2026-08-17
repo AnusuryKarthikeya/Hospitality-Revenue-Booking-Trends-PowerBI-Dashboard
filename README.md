@@ -56,7 +56,7 @@ The dataset consists of five structured CSV files with the following schema:
 * Excel – for exploratory data analysis and metric calculation
 
 ## Dashboard Preview
-![image](https://github.com/user-attachments/assets/786d49c4-2c67-4586-8597-7cde6e753571)
+<img width="1267" height="733" alt="image" src="https://github.com/user-attachments/assets/c47666c7-d5e2-4662-a743-bde0dcf7d483" />
 
 ## How to Run
 * Open Power BI Desktop
